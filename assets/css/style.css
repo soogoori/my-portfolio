@@ -879,7 +879,8 @@ main {
 }
 
 .skill-progress-fill {
-  background: #c0eaaf;
+  /*background: #c0eaaf;*/
+  background: #f5a615;
   height: 100%;
   border-radius: inherit;
 }
@@ -1442,6 +1443,13 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: #2DB400;
     padding: 30px;
     padding-top: 25px;
+  }
+
+  .content-card .date{
+    font-size: var(--fs-8);
+    color: whitesmoke;
+    font-weight: var(--fw-300);
+    margin-bottom: 10px;
   }
 
   .testimonials-avatar-box {

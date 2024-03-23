@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e28107c-be8d-4d03-8295-9b13ceef306b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-dongnaefriends.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-kookdata.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-wisefee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/portfolio-wisefee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/shoewiseLogoB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/wisefee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-dongnae.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/project-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +159,8 @@
       <workItem from="1710304979069" duration="3229000" />
       <workItem from="1710515161371" duration="4393000" />
       <workItem from="1710977799160" duration="3415000" />
-      <workItem from="1710981223704" duration="4158000" />
+      <workItem from="1710981223704" duration="4388000" />
+      <workItem from="1711208583030" duration="4245000" />
     </task>
     <servers />
   </component>
