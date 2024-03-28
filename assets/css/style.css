@@ -29,7 +29,7 @@
           hsla(115, 100%, 89%, 0.53) 97%
   );*/
 
-  --bg-gradient-onyx: #cfe1cb;
+  --bg-gradient-onyx: #efb75f;
 
   --bg-gradient-jet: linear-gradient(
           to bottom right,
@@ -60,13 +60,13 @@
   /* solid */
 
   --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(105, 100%, 35%);
+  --onyx: #FF9700;
   --eerie-black-1: hsl(0, 0%, 96%);
   --eerie-black-2: hsl(120, 10%, 94%);
   --smoky-black: hsl(0, 0%, 100%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(105, 100%, 35%);
+  --orange-yellow-crayola: #EF151E;
   --vegas-gold: hsl(107, 100%, 37%);
   --light-gray: hsl(0, 0%, 0%);
   --light-gray-70: hsla(0, 0%, 0%, 0.7);
@@ -290,7 +290,7 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-  background: #2DB400;
+  background: #006ECD;
   border-radius: inherit;
   z-index: -1;
 }
@@ -364,7 +364,7 @@ main {
   border-radius: 0 15px;
   font-size: 13px;
   color: var(--orange-yellow-crayola);
-  background: #2DB400;
+  background: #006ECD;
   padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
@@ -376,7 +376,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: #2DB400;
+  background: #006ECD;
   transition: var(--transition-1);
 
   z-index: -1;
@@ -386,7 +386,7 @@ main {
 .info_more-btn:focus { background: var(--bg-gradient-yellow-1); }
 
 .info_more-btn:hover::before,
-.info_more-btn:focus::before { background: #2D8300; }
+.info_more-btn:focus::before { background: #006ECD; }
 
 .info_more-btn span { display: none; }
 
@@ -464,7 +464,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: #92d37c;
+  background: #74a1d5;
   backdrop-filter: blur(10px);
   border: 1px;
   border-radius: 12px 12px 0 0;
@@ -491,7 +491,7 @@ main {
 .navbar-link:hover,
 .navbar-link:focus { color: var(--light-gray-70); }
 
-.navbar-link.active { color: #1d6901; }
+.navbar-link.active { color: #006ECD; }
 
 
 
@@ -517,7 +517,7 @@ main {
 
 .about-text p strong {
   font-size: 22px;
-  color: #208102;
+  color: #006ECD;
 }
 
 
@@ -880,7 +880,7 @@ main {
 
 .skill-progress-fill {
   /*background: #c0eaaf;*/
-  background: #f5a615;
+  background: #FF9700;
   height: 100%;
   border-radius: inherit;
 }
@@ -1440,7 +1440,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .content-card {
-    background: #2DB400;
+    background: #006ECD;
     padding: 30px;
     padding-top: 25px;
   }
