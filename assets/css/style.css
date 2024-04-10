@@ -29,7 +29,7 @@
           hsla(115, 100%, 89%, 0.53) 97%
   );*/
 
-  --bg-gradient-onyx: #efb75f;
+  --bg-gradient-onyx: #c7c5bd;
 
   --bg-gradient-jet: linear-gradient(
           to bottom right,
@@ -38,7 +38,7 @@
   ), hsl(108, 29%, 70%);
   --bg-gradient-yellow-1: linear-gradient(
           to bottom right,
-          hsl(105, 100%, 35%) 0%,
+          hsl(0, 4%, 71%) 0%,
           hsla(36, 100%, 69%, 0) 50%
   );
   --bg-gradient-yellow-2: linear-gradient(
@@ -60,17 +60,17 @@
   /* solid */
 
   --jet: hsl(0, 0%, 22%);
-  --onyx: #FF9700;
+  --onyx: #262424;
   --eerie-black-1: hsl(0, 0%, 96%);
   --eerie-black-2: hsl(120, 10%, 94%);
   --smoky-black: hsl(0, 0%, 100%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: #EF151E;
-  --vegas-gold: hsl(107, 100%, 37%);
+  --orange-yellow-crayola: #5e5858;
+  --vegas-gold: hsl(0, 4%, 71%);
   --light-gray: hsl(0, 0%, 0%);
   --light-gray-70: hsla(0, 0%, 0%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  --bittersweet-shimmer: hsl(0, 3%, 46%);
 
   /**
    * typography
@@ -540,7 +540,7 @@ main {
 
 .service-item {
   position: relative;
-  background: #2DB400;
+  background: #818080;
   padding: 20px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
@@ -551,7 +551,7 @@ main {
   content: "";
   position: absolute;
   inset: 1px;
-  background: #2DB400;
+  background: #918d8d;
   border-radius: inherit;
   z-index: -1;
 }
