@@ -242,7 +242,7 @@ article.active {
 }
 
 .article-title {
-  color: black;스
+  color: black;
   position: relative;
   padding-bottom: 7px;
 }
@@ -290,7 +290,7 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-  background: #006ECD;
+  background: #737373;
   border-radius: inherit;
   z-index: -1;
 }
@@ -364,7 +364,7 @@ main {
   border-radius: 0 15px;
   font-size: 13px;
   color: var(--orange-yellow-crayola);
-  background: #006ECD;
+  background: #474d46;
   padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
@@ -376,7 +376,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: #006ECD;
+  background: #eeac1e;
   transition: var(--transition-1);
 
   z-index: -1;
@@ -386,7 +386,7 @@ main {
 .info_more-btn:focus { background: var(--bg-gradient-yellow-1); }
 
 .info_more-btn:hover::before,
-.info_more-btn:focus::before { background: #006ECD; }
+.info_more-btn:focus::before { background: #474d46; }
 
 .info_more-btn span { display: none; }
 
@@ -464,7 +464,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: #74a1d5;
+  background: #6e6e75;
   backdrop-filter: blur(10px);
   border: 1px;
   border-radius: 12px 12px 0 0;
@@ -491,7 +491,7 @@ main {
 .navbar-link:hover,
 .navbar-link:focus { color: var(--light-gray-70); }
 
-.navbar-link.active { color: #006ECD; }
+.navbar-link.active { color: #474d46; }
 
 
 
@@ -517,7 +517,7 @@ main {
 
 .about-text p strong {
   font-size: 22px;
-  color: #006ECD;
+  color: #eeac1e;
 }
 
 
@@ -551,7 +551,7 @@ main {
   content: "";
   position: absolute;
   inset: 1px;
-  background: #918d8d;
+  background: #cec2c2;
   border-radius: inherit;
   z-index: -1;
 }
@@ -880,7 +880,7 @@ main {
 
 .skill-progress-fill {
   /*background: #c0eaaf;*/
-  background: #FF9700;
+  background: #8f8b8b;
   height: 100%;
   border-radius: inherit;
 }
@@ -1440,7 +1440,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .content-card {
-    background: #006ECD;
+    background: #929b92;
     padding: 30px;
     padding-top: 25px;
   }
